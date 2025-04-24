@@ -6,3 +6,7 @@
 - 🔭 Atualmente estudo Sistemas de Informação na USP!
 - 🌱 Estou aprendendo a programar em C!
 -->
+- 🔭 Atualmente estudo Sistemas de Informação na USP!
+- 🌱 Estou aprendendo a programar em C!
+- 🐱 Tenho 19 anos.
+-->
