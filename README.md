@@ -8,6 +8,6 @@
 -->
 - 🔭 Atualmente estudo Sistemas de Informação na USP!
 - 🌱 Estou aprendendo a programar em C!
-- 🐱 Tenho 19 anos.
+- 🐱 Tenho 20 anos.
 - Contato: [Linkedin](https://www.linkedin.com/in/rafael-lima-3ba82a361/)
 
